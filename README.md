@@ -7,7 +7,7 @@
  
  # Desenvolvedor Web Front-end
  
-[![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logoColor=#FF7139)]#)
+[![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logoColor=#FF7139)](#)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](#)
  
@@ -29,9 +29,8 @@
 
 <br>
 
-<div>
-<img src="https://blush.design/api/download?shareUri=_2IjHTdNy2WLooYb&c=Monochromatic_0%7E67c3cc-0.2%7E52dc82_Skin_0%7Eb18058-0.2%7Eb18058&w=800&h=800&fm=png" max-width="300rem" width="300rem" align="right">
-<div/>
+
+<div class="tenor-gif-embed" data-postid="9067727" data-share-method="host" data-aspect-ratio="1.09735" data-width="100%"><a href="https://tenor.com/view/horadeaventura-adventure-time-gif-9067727">Horadeaventura Adventure Time GIF</a>from <a href="https://tenor.com/search/horadeaventura-gifs">Horadeaventura GIFs</a></div> 
  
 <br>
  
@@ -39,7 +38,7 @@
  
 <h2>🤓 Sobre mim</h2>
  <ul>
-   <li>🔍 Atualmente estudo <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>UI Design</strong></li>
+   <li>🔍 Atualmente estudo <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>React</strong></li>
    <li>⚡ Pai, Marido, Skatista, Artista, Tec, Manga 
    <li>🗝<strong>Infinita arte</strong> e  <strong>Constante Evolução</strong></li>
  <ul> 
@@ -86,11 +85,11 @@ Curso | Instituição | Carga horária | Conclusão
   
 * Criar no mínimo 6 projetos: 
 - [ ] 🤖 Site Responsivo Android - [*Repositório*](#)
-- [ ] ☀ Bio - [*Repositório*](https://github.com/matheusqueirozds/bio) | [Site](https://bio-matheusqueirozds.vercel.app/)
+- [ ] ☀ Bio - [*Repositório*](#) | [Site](#)
 - [ ] 🛒 LabeStore - [*Repositório*](#) | [Site](#)
 - [ ] 📜 Portfólio (em construção) - [*Repositório*](#) | [Site](#)
-- [ ] Asgv - Repositório (em breve) | Site (em breve)
-- [ ]  Site Malagueta House - Repositório (em breve) | Site (em breve)
+- [ ] 🛹 Asgv - Repositório (em breve) | Site (em breve)
+- [ ] 🏝 Site Malagueta House - Repositório (em breve) | Site (em breve)
   
 * Aprender React 
  
