@@ -7,9 +7,9 @@
  
  # Desenvolvedor Web Front-end
  
-[![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logoColor=#FF7139)](https://matheusqueirozds.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusqueirozds)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/matheusqueirozds.dev)
+[![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logoColor=#FF7139)]#)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](#)
  
 </div>
 
@@ -18,8 +18,8 @@
 <h2>🎲🎲 Dados</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&custom_title=Minhas estatísticas&username=matheusqueirozds" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=matheusqueirozds" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&custom_title=Minhas estatísticas&username=Otuada" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=Otuada" height="150" alt="languages graph"  />
 </div>
 
 
@@ -40,7 +40,8 @@
 <h2>🤓 Sobre mim</h2>
  <ul>
    <li>🔍 Atualmente estudo <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>UI Design</strong></li>
-   <li>⚡ Sou cristão, nerd declarado e amante de ficção científica. Meus filmes favoritos são a <strong>Triologia De Volta Para o Futuro</strong> e a <strong>Triologia do Homem-aranha (Sam Raimi)</strong></li>
+   <li>⚡ Pai, Marido, Skatista, Artista, Tec, Manga 
+   <li>🗝<strong>Infinita arte</strong> e  <strong>Constante Evolução</strong></li>
  <ul> 
 </main>
  
@@ -84,13 +85,12 @@ Curso | Instituição | Carga horária | Conclusão
 ## 📈 Metas para 2022
   
 * Criar no mínimo 6 projetos: 
-- [x] 🤖 Site Responsivo Android - [*Repositório*](https://github.com/matheusqueirozds/site-responsivo-android) | [Site](https://site-responsivo-android.vercel.app/)
-- [x] 🎵 Desafio Cordel - [*Repositório*](https://github.com/matheusqueirozds/desafio-cordel) | [Site](http://desafio-cordel.vercel.app/)
-- [x] ☀ Bio - [*Repositório*](https://github.com/matheusqueirozds/bio) | [Site](https://bio-matheusqueirozds.vercel.app/)
-- [x] 🛒 LabeStore - [*Repositório*](https://github.com/matheusqueirozds/html-sistema-loja) | [Site](https://html-sistema-loja.vercel.app/)
-- [x] 📜 Portfólio (em construção) - [*Repositório*](https://github.com/matheusqueirozds/projeto-portfolio) | [Site](https://matheusqueirozds.vercel.app/)
-- [ ] 🧹 Vassourax - Repositório (em breve) | Site (em breve)
-- [ ] ⛪ Site para Igreja - Repositório (em breve) | Site (em breve)
+- [ ] 🤖 Site Responsivo Android - [*Repositório*](#)
+- [ ] ☀ Bio - [*Repositório*](https://github.com/matheusqueirozds/bio) | [Site](https://bio-matheusqueirozds.vercel.app/)
+- [ ] 🛒 LabeStore - [*Repositório*](#) | [Site](#)
+- [ ] 📜 Portfólio (em construção) - [*Repositório*](#) | [Site](#)
+- [ ] Asgv - Repositório (em breve) | Site (em breve)
+- [ ]  Site Malagueta House - Repositório (em breve) | Site (em breve)
   
 * Aprender React 
  
