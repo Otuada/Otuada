@@ -36,7 +36,7 @@
  
 <main>
  
-<h2>🤓 Sobre mim</h2>
+<h2 align=center>🗺 Sobre mim</h2>
  <ul>
    <li>🔍 Atualmente estudo <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>React</strong></li>
    <li>⚡ Pai, Marido, Skatista, Artista, Tec, Manga 
@@ -46,7 +46,7 @@
  
 <br>
  
-<h2>📚 Cursos</h2>
+<h2 align=center>📜 Curso</h2>
 
 <div align="center">
  
@@ -60,22 +60,18 @@ Curso | Instituição | Carga horária | Conclusão
  
 </div> 
  
-#
- 
-
- <br>
- 
+<br>
+<div align=start> 
 ## 📈 Metas para 2022
   
-* Criar no mínimo 6 projetos: 
-- [ ] 🤖 Site Responsivo Android - [*Repositório*](#)
+* Criar no mínimo 3 projetos: 
 - [ ] ☀ Bio - [*Repositório*](#) | [Site](#)
 - [ ] 🛒 LabeStore - [*Repositório*](#) | [Site](#)
 - [ ] 📜 Portfólio (em construção) - [*Repositório*](#) | [Site](#)
 - [ ] 🛹 Asgv - Repositório (em breve) | Site (em breve)
 - [ ] 🏝 Site Malagueta House - Repositório (em breve) | Site (em breve)
   
-* Aprender React 
+ </div>
  
 © 2022 GitHub, Inc.
 Terms
