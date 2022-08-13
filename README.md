@@ -61,17 +61,7 @@ Curso | Instituição | Carga horária | Conclusão
 </div> 
  
 <br>
-<div align=start> 
-## 📈 Metas para 2022
-  
-* Criar no mínimo 3 projetos: 
-- [ ] ☀ Bio - [*Repositório*](#) | [Site](#)
-- [ ] 🛒 LabeStore - [*Repositório*](#) | [Site](#)
-- [ ] 📜 Portfólio (em construção) - [*Repositório*](#) | [Site](#)
-- [ ] 🛹 Asgv - Repositório (em breve) | Site (em breve)
-- [ ] 🏝 Site Malagueta House - Repositório (em breve) | Site (em breve)
-  
- </div>
+
  
 © 2022 GitHub, Inc.
 Terms
