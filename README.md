@@ -18,7 +18,7 @@
 <h2>🎲🎲 Dados</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&custom_title=Minhas estatísticas&username=Otuada" height="120" alt="stats graph"  />
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Otuada&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=Otuada" height="150" alt="languages graph"  />
 </div>
 
