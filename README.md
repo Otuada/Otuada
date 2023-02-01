@@ -39,7 +39,7 @@
 <h2 align=center>🗺 Sobre mim</h2>
  <ul>
    <li>🔍 Atualmente estudo <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>React</strong></li>
-   <li>⚡ Pai, Marido, Skatista, Artista, Tec, Manga 
+   <li>⚡ Pai, Dev, Skatista, Artista, Tec,  
    <li>🗝<strong>Infinita arte</strong> e  <strong>Constante Evolução</strong></li>
  <ul> 
 </main>
