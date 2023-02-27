@@ -8,3 +8,25 @@ export const BannerBox = styled.header`
     background-image: linear-gradient(#1F1D1D, green);
     
 `
+
+
+export const TagH2 =styled.h2`
+    color: white;
+    font-size: 3em;
+    cursor: pointer;
+                transition-duration: 1s;
+                &:hover{
+                    color: #DEED41;
+                    transition-duration: 1s;
+                }
+
+`
+
+export const Img =styled.img`
+    transition: transform 0.3s ease-in-out; /* efeito de transição suave */
+    &:hover
+    {transform: scale(1.2); /* aumentar em 20% */
+}
+margin-left: 200px;
+
+`
