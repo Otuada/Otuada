@@ -1,5 +1,5 @@
 import React from 'react';
-import { HeaderBox, Box } from './styles';
+import { HeaderBox, LogoBox, LogoImg } from './styles';
 import Menu from '../Menu';
 import Banner from '../Banner';
 import ImageInf from '../img/infinito-736592-removebg-preview.png';
@@ -8,13 +8,13 @@ function Header() {
   return( 
     <div>
          <HeaderBox>
-             <Box> 
+             <LogoBox> 
              <div>
-                <img src={ ImageInf } alt='logo' width={75} height={50} />
+                <LogoImg src={ ImageInf } alt='logo' width={75} height={50} />
              </div>
              <Menu>
              </Menu>
-             </Box>
+             </LogoBox>
          </HeaderBox>
   
          <div>        

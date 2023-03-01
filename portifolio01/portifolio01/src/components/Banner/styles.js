@@ -19,6 +19,10 @@ export const TagH2 =styled.h2`
                     color: #DEED41;
                     transition-duration: 1s;
                 }
+                transition: transform 0.3s ease-in-out; 
+                &:hover
+                       {transform: scale(1.2); 
+                }
 
 `
 
