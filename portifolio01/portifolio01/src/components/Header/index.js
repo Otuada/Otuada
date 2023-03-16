@@ -9,9 +9,9 @@ function Header() {
     <div>
          <HeaderBox>
              <LogoBox> 
-             <div>
+              <div>
                 <LogoImg src={ ImageInf } alt='logo' width={75} height={50} />
-             </div>
+              </div>
              <Menu>
              </Menu>
              </LogoBox>
