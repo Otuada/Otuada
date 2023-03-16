@@ -1,18 +1,23 @@
 import React from 'react';
-import Header from "../components/Header/index.js";
-import FotoPessoal from "."
+import Header from "../../Components/Header/index";
+import FotoPessoal from "../../Components/img/fotoPerfil.png";
+import { ImgHome } from './styled';
+
 
 
 export default function Home() {
-  return <div>
+     
+  return( <div>
           <Header></Header>
      <div>
-     <img src={ FotoPessoal } alt="Foto Perfil"/>
+     <ImgHome src={ FotoPessoal } alt="FotoPerfil"/>
      <h1> Sobre mim </h1>
      <p> aiiaiaiaiaiaiaiaiaiaiai dsffewr </p>
 
-     </div>;
+
+     </div>
 </div>
+  )
 }
 
  
