@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from "../../Components/Header/index";
 import FotoPessoal from "../../Components/img/fotoPerfil.png";
-import { ImgHome } from './styled';
+import { ImgHome, DivMain, H1Sobre } from './styled';
 
 
 
@@ -9,13 +9,13 @@ export default function Home() {
      
   return( <div>
           <Header></Header>
-     <div>
+     <DivMain>
      <ImgHome src={ FotoPessoal } alt="FotoPerfil"/>
-     <h1> Sobre mim </h1>
-     <p> aiiaiaiaiaiaiaiaiaiaiai dsffewr </p>
+     <H1Sobre> Sobre mim </H1Sobre>
+     <p>  </p>
 
 
-     </div>
+     </DivMain>
 </div>
   )
 }

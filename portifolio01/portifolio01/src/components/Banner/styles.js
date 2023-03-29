@@ -5,7 +5,7 @@ export const BannerBox = styled.header`
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: linear-gradient(#1F1D1D, green);
+    background-image: linear-gradient(green, #1F1D1D);
     
 `
 
@@ -32,5 +32,4 @@ export const Img =styled.img`
     {transform: scale(1.2); /* aumentar em 20% */
 }
 margin-left: 200px;
-
 `
