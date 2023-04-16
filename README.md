@@ -57,6 +57,8 @@
 Curso | Instituição | Carga horária | Conclusão
 -|:-:|:-:|-
   Desenvolvimento Web Full Stack | Labenu | 12 meses | 04/2023
+ "Programa com mais de 1000 horas de experiência prática em desenvolvimento Full-stack, guiadas por metodologias ágeis (Kanban/Scrum).
+Entre as habilidades aprendidas durante o curso estão HTML, CSS, JavaScript, React, Styled-Components, React Hooks, REST, Api Restful, HTTP, Jest, Node.JS, Knex, TypeScript, MySQL, AWS, SQL, Git, Github, Firebase, Testes unitários e UI Design."
  
 </div> 
  
