@@ -62,6 +62,10 @@ Curso | Instituição | Carga horária | Conclusão
  "Programa com mais de 1000 horas de experiência prática em desenvolvimento Full-stack, guiadas por metodologias ágeis (Kanban/Scrum).
 Entre as habilidades aprendidas durante o curso estão HTML, CSS, JavaScript, React, Styled-Components, React Hooks, REST, Api Restful, HTTP, Jest, Node.JS, Knex, TypeScript, MySQL, AWS, SQL, Git, Github, Firebase, Testes unitários e UI Design."
  
+ 
+ <br>
+ 
+ 
  <div>
   Certificado em <strong>Scrum Fundamental</strong> ScrumStudy
   Tecnico em segurança do trabalho
