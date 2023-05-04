@@ -67,7 +67,8 @@ Entre as habilidades aprendidas durante o curso estão HTML, CSS, JavaScript, Re
  
  
  <div>
-  Certificado em <strong>Scrum Fundamental</strong> ScrumStudy
+  Certificado em <strong>Scrum Fundamental</strong> pela ScrumStudy
+  <br>
   Tecnico em segurança do trabalho
   
  </div>
