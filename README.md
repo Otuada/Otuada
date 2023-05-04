@@ -38,7 +38,7 @@
  
 <h2 align=center>🗺 Sobre mim</h2>
  <ul>
-   <li>🔍 Atualmente estudo <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>React</strong></li>
+   <li>🔍  <strong>Full Stack Web Developer</strong></li>
    <li>⚡ Pai, Dev, Skatista, Artista, Tec,  
    <li>🗝<strong>Infinita arte</strong> e  <strong>Constante Evolução</strong></li>
  <ul> 
@@ -63,6 +63,8 @@ Curso | Instituição | Carga horária | Conclusão
 Entre as habilidades aprendidas durante o curso estão HTML, CSS, JavaScript, React, Styled-Components, React Hooks, REST, Api Restful, HTTP, Jest, Node.JS, Knex, TypeScript, MySQL, AWS, SQL, Git, Github, Firebase, Testes unitários e UI Design."
  
  <div>
+  Certificado em <strong>Scrum Fundamental</strong> ScrumStudy
+  Tecnico em segurança do trabalho
   
  </div>
 <br>
