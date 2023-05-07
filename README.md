@@ -1,6 +1,12 @@
 
 
+<br></br>
 
+<p align="center">
+<img src="outdoor.svg" />
+</p>
+
+&nbsp;
 
 <div align="center">
 
@@ -39,7 +45,7 @@
 <h2 align=center>🗺 Sobre mim</h2>
  <ul>
    <li>🔍  <strong>Full Stack Web Developer</strong></li>
-   <li>⚡ Pai, Dev, Skatista, Artista, Tec,  
+   <li>⚡  Dev, Empreendedor, Pai, MusicLover, SKT, art </li> 
    <li>🗝<strong>Infinita arte</strong> e  <strong>Constante Evolução</strong></li>
  <ul> 
 </main>
@@ -67,15 +73,15 @@ Entre as habilidades aprendidas durante o curso estão HTML, CSS, JavaScript, Re
  
  
  <div>
-  Certificado em <strong>Scrum Fundamental</strong> pela ScrumStudy
+  🥇Certificado em <strong>Scrum Fundamental</strong> pela ScrumStudy
   <br>
-  Tecnico em segurança do trabalho
+  🦾Tecnico em segurança do trabalho
   
  </div>
 <br>
 
  
-© 2022 GitHub, Inc.
+© 2023 GitHub, Inc.
 Terms
 Privacy
 Security
