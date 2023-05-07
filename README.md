@@ -44,9 +44,9 @@
  
 <h2 align=center>🗺 Sobre mim</h2>
  <ul>
-   <li>🔍  <strong>Full Stack Web Developer</strong></li>
+   <li>🥊  <strong>Full Stack Web Developer</strong></li>
    <li>⚡  Dev, Empreendedor, Pai, MusicLover, SKT, art </li> 
-   <li>🗝<strong>Infinita arte</strong> e  <strong>Constante Evolução</strong></li>
+   <li>🔑<strong>Infinita arte</strong> e  <strong>Constante Evolução</strong></li>
  <ul> 
 </main>
  
