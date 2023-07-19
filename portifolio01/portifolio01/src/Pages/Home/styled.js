@@ -13,5 +13,5 @@ export const H1Sobre =styled.h1`
 `
 
 export const DivMain =styled.div`
-       background-color: #1F1D1D;
+       background-color: #D46A6A;
 `
