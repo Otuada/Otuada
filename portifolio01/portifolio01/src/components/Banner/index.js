@@ -1,14 +1,10 @@
-import styled from "styled-components"
 import React from 'react';
-import { BannerBox, TagH2, Img  } from './styles';
+import { BannerBox, TagH2, Img, TagH1  } from './styles';
 const  imageAvatar= require('../img/avatar01.png');
 
 
 
-export const TagH1 =styled.h1`
-    color: orange;
-    font-size: 4em;
-`
+
 
 function Banner() {
   return (
