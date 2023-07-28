@@ -35,6 +35,6 @@ export const DivP =styled.div`
 
 export const H1Tec =styled.h1`
     color: white;
-    margin-top: 593px;
+    margin-top: 30px;
     margin-right: 50px;
 `
