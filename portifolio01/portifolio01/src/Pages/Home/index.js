@@ -36,7 +36,7 @@ export default function Home() {
          perspectivas e a colaboração são fundamentais para impulsionar 
          a inovação e alcançar resultados excepcionais.
          </PpEscrita> 
-         <H1Tec>Tecnologia</H1Tec>
+         <H1Tec>Tecnologias</H1Tec>
 
 
 
