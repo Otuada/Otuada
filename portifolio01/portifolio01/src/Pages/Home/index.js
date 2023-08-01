@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from "../../Components/Header/index";
 import FotoPessoal from "../../Components/img/fotoPerfil.png";
-import { ImgHome, DivMain, H1Sobre, PpEscrita, DivP, H1Tec } from './styled';
+import { ImgHome, DivMain, H1Sobre, PpEscrita, DivP, H1Tec, DivTec, ImgTec, DivTec2 } from './styled';
 
 
 
@@ -35,8 +35,30 @@ export default function Home() {
          de ideias entre os membros. Acredito que a diversidade de 
          perspectivas e a colaboração são fundamentais para impulsionar 
          a inovação e alcançar resultados excepcionais.
-         </PpEscrita> 
+      </PpEscrita> 
          <H1Tec>Tecnologias</H1Tec>
+            <DivTec>
+               <ImgTec src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='HTML5 Badge'/>
+               <ImgTec src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='HTML5 Badge'/>
+               <ImgTec src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' alt="HTML5 Badge"/>
+               <ImgTec src= 'https://img.shields.io/badge/TypeScript-3776AB?style=for-the-badge&logo=typescript&logoColor=white' alt='HTML5 Badge'/>
+            </DivTec>
+            <DivTec2>
+               <ImgTec src= 'https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black' alt='HTML5 Badge'/>
+               <ImgTec src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' alt='HTML5 Badge'/>
+               <ImgTec src='https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black' alt='HTML5 Badge'/>
+               <ImgTec src='https://img.shields.io/badge/MySQL-F7DF1E?style=for-the-badge&logo=mysql&logoColor=black' alt="HTML5 Badge"/>
+               <ImgTec src='https://img.shields.io/badge/AWS-E34F26?style=for-the-badge&logo=aws&logoColor=white' alt='HTML5 Badge'/>
+            </DivTec2>
+
+            <div>
+               <H1Tec>Redes Sociais</H1Tec>
+               <a href='https://api.whatsapp.com/send?phone=5512997763241'>
+               <img src='../../Components/img/6ef737c0fccc304d8c3f20b1e7c3897c.jpg' alt='whatsapp'/>
+               </a>
+
+
+            </div>
 
 
 
